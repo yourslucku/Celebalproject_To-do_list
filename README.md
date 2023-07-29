@@ -11,15 +11,16 @@ $ npm i --save @fortawesome/free-solid-svg-icons
 $ npm i --save @fortawesome/react-fontawesome
 
 ## Command to use this project
-## First Download its zip file then run command 
+## First Download its zip file and then run command 
 
-npm install
-npm start 
+$ npm install
+$ npm start 
 
 ## The deployed link To-do App:
 
 https://luckyassignmentproject.netlify.app/
 
 
-The Project will look like this ...
+# The Project will look like this ...
+
 ![To-Do_list](https://github.com/yourslucku/Celebalproject_To-do_list/assets/90245940/2aeb5b0b-abcb-4374-bd36-4afdd1bfa15e)
