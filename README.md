@@ -20,3 +20,6 @@ npm run deploy
 
 ## The published To-do App:
 https://abarna1908.github.io/To-Do-App-in-React/
+
+The Project will look like this ...
+![To-Do_list](https://github.com/yourslucku/Celebalproject_To-do_list/assets/90245940/2aeb5b0b-abcb-4374-bd36-4afdd1bfa15e)
